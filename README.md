@@ -1,3 +1,12 @@
+
+# 🏛️ Hub de Conformidade e Engenharia de Software
+<a href="https://www.linkedin.com/in/roberlanderrsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+> **Especialista:** Roberlande Silva
+> `Direito Administrativo` | `Engenharia de Software` | `Governança de TI`
+
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Conformidade-Digital-blue?style=for-the-badge">
+
+---
 # Gestão de Processos e Conformidade ⚖️💻
 
 Repositório estratégico de alto nível integrando **Direito Administrativo, Engenharia de Software e TI**. Focado na criação de fluxos públicos eficientes, auditáveis e tecnicamente robustos.
