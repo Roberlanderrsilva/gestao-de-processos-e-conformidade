@@ -1,0 +1,6 @@
+ID,Requisito Tecno-Juridico,Status,Impacto (Risco),Acao Mitigadora
+001,Criptografia de Dados (LGPD),Conforme,Critico,Monitoramento de Logs
+002,API de Integracao PNCP,Nao Conforme,Alto,Desenvolvimento de Endpoint
+003,Certificacao Digital SSL,Conforme,Medio,Renovacao Automatica
+004,Backup em Nuvem (Disponibilidade),Conforme,Critico,Redundancia Multi-Region
+005,Termo de Referencia Tecnico,Pendente,Alto,Revisao pela Consultoria Juridica
