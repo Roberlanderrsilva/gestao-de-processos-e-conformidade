@@ -3,8 +3,8 @@
 > **Especialista:** Roberlande Silva 
 > `Direito Administrativo` | `Engenharia de Software` | `Governança de TI`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlande-silva-b9042b1a1/)
-![Status](https://img.shields.io/badge/Status-Conformidade%20Digital-brightgreen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlanderrsilva/)
+![Status](https://img.shields.io/badge/Status-Conformidade%20Digital-brightgreen?style=flat-square)
 
 ---
 
@@ -19,4 +19,4 @@ Repositório estratégico de alto nível focado na criação de fluxos públicos
 * 📊 **[Dashboard de KPIs](dashboards-kpi/indicadores_conformidade.md):** Monitoramento de performance e aderência regulatória.
 
 ---
-*Projeto desenvolvido integrando visão jurídica e arquitetura de software moderna.*
+*Projeto desenvolvido por Roberlande Silva, integrando visão jurídica e arquitetura de software moderna.*
