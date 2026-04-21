@@ -3,7 +3,7 @@
 > **Especialista:** Roberlande Silva 
 > `Direito Administrativo` | `Engenharia de Software` | `Governança de TI`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlanderrsilva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlande-silva/)
 ![Status](https://img.shields.io/badge/Status-Conformidade%20Digital-brightgreen?style=flat-square)
 
 ---
