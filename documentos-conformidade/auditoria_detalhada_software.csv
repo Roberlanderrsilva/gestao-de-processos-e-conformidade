@@ -1,0 +1,10 @@
+ID,Categoria,Requisito de Conformidade,Nivel de Risco,Status,Parecer Tecnico/Juridico
+INF-01,Segurança,Criptografia AES-256 em repouso,Critico,Conforme,Proteção de dados sensíveis conforme LGPD.
+INF-02,Segurança,Autenticação Multifator (MFA) para Admin,Alto,Nao Conforme,Vulnerabilidade identificada no acesso privilegiado.
+LEG-01,Jurídico,Termos de Uso atualizados (Lei 14.133),Critico,Conforme,Alinhado com a nova Lei de Licitações.
+LEG-02,Jurídico,Direito ao esquecimento (Art. 18 LGPD),Alto,Pendente,Necessário implementar script de deleção lógica.
+ENG-01,Engenharia,Arquitetura de Microserviços (Escalabilidade),Medio,Conforme,Garante disponibilidade em picos de acesso.
+ENG-02,Engenharia,Documentação de API (Swagger/OpenAPI),Medio,Nao Conforme,Dificulta a interoperabilidade com outros órgãos.
+DES-01,Desempenho,Tempo de resposta da página principal < 2s,Baixo,Conforme,Otimização de cache implementada com sucesso.
+DES-02,Desempenho,Taxa de erro de integração de pagamentos,Critico,Alto,Instabilidade no gateway de pagamento da União.
+AUD-01,Auditoria,Logs de trilha de auditoria imutáveis,Critico,Conforme,Essencial para perícias de órgãos de controle.

@@ -1,9 +1,12 @@
-## 👤 Sobre Mim
-Sou um profissional com formação híbrida em **Direito e Tecnologia**, unindo a visão analítica jurídica à eficiência da engenharia de software. 
+# Gestão de Processos e Conformidade ⚖️💻
 
-* **Graduação:** Direito.
-* **Pós-graduação 1:** Direito Administrativo e Licitações (Foco em Compliance e Processos Públicos).
-* **Pós-graduação 2:** Tecnologia da Informação.
-* **Pós-graduação 3:** Engenharia de Software.
+Repositório estratégico de alto nível integrando **Direito Administrativo, Engenharia de Software e TI**. Focado na criação de fluxos públicos eficientes, auditáveis e tecnicamente robustos.
 
-Essa base acadêmica me permite atuar na intersecção entre o **negócio, o jurídico e o técnico**, garantindo que o mapeamento de processos não seja apenas eficiente, mas também esteja em total conformidade com normas e legislações (como a LGPD e normas de Auditoria).
+## 🚀 Artefatos de Valor (Neste Repositório)
+* **[Matriz de Riscos Avançada](documentos-conformidade/auditoria_detalhada_software.csv):** Auditoria técnica de 20+ pontos de controle.
+* **[Plano de Governança](documentos-conformidade/plano_estrategico_governanca.md):** Estratégia de correção e mitigação de riscos.
+* **[Compliance-by-Design](fluxogramas-bpmn/arquitetura_conformidade_digital.md):** Manifesto de arquitetura de software para o setor público.
+
+## 👤 Especialista
+**Roberlande Silva** - Tripla especialização (TI, Direito Administrativo e Eng. de Software).
+
