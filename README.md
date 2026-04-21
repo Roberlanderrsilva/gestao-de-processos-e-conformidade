@@ -3,19 +3,21 @@
 > **Especialista:** Roberlande Silva 
 > `Direito Administrativo` | `Engenharia de Software` | `Governança de TI`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlande-silva/)&nbsp;&nbsp;[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/roberlanderrsilva)&nbsp;&nbsp;![Status](https://img.shields.io/badge/Status-brightgreen?style=flat-square)&nbsp;&nbsp;![Conformidade Digital](https://img.shields.io/badge/Conformidade_Digital-6f42c1?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlande-silva/)&nbsp;&nbsp;[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/roberlanderrsilva)&nbsp;&nbsp;![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square)&nbsp;&nbsp;![Conformidade Digital](https://img.shields.io/badge/Conformidade_Digital-6f42c1?style=flat-square)
 
 ---
 
 ## ⚖️ Gestão de Processos e Conformidade 💻
 
-Repositório estratégico de alto nível focado na criação de fluxos públicos eficientes, auditáveis e tecnicamente robustos. Aqui, a norma jurídica se transforma em requisito de sistema.
+Repositório estratégico focado na integração entre normas jurídicas e arquitetura de software.
 
-### 🚀 Artefatos de Valor (Neste Repositório)
-* 📑 **[Matriz de Riscos Avançada](documentos-conformidade/auditoria_detalhada_software.csv):** Auditoria técnica de 20+ pontos de controle (LGPD, Segurança, Lei 14.133).
-* 🛡️ **[Plano de Governança](documentos-conformidade/plano_estrategico_governanca.md):** Estratégia de correção e mitigação de riscos críticos.
-* 🏗️ **[Compliance-by-Design](fluxogramas-bpmn/arquitetura_conformidade_digital.md):** Manifesto de arquitetura de software para o setor público.
-* 📊 **[Dashboard de KPIs](dashboards-kpi/indicadores_conformidade.md):** Monitoramento de performance e aderência regulatória.
+### 🐍 Inteligência e Automação
+* **Auditoria via Python:** O projeto possui um script em [`scripts/auditoria_automatizada.py`](scripts/auditoria_automatizada.py) que realiza a análise de dados da matriz de riscos automaticamente, garantindo integridade e velocidade na tomada de decisão.
+
+### 🚀 Artefatos de Valor
+* 📑 **[Matriz de Riscos Avançada](documentos-conformidade/auditoria_detalhada_software.csv):** Auditoria técnica de 20+ pontos de controle.
+* 🛡️ **[Plano de Governança](documentos-conformidade/plano_estrategico_governanca.md):** Estratégia de mitigação de riscos.
+* 🏗️ **[Compliance-by-Design](fluxogramas-bpmn/arquitetura_conformidade_digital.md):** Manifesto de arquitetura pública.
 
 ---
-*Projeto desenvolvido por Roberlande Silva, integrando visão jurídica e arquitetura de software moderna.*
+*Projeto desenvolvido por Roberlande Silva, unindo Direito e Tecnologia.*
