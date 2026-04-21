@@ -7,17 +7,23 @@
 
 ---
 
-## ⚖️ Gestão de Processos e Conformidade 💻
+## ⚖️ Governança e Compliance Digital
 
-Repositório estratégico focado na integração entre normas jurídicas e arquitetura de software.
+Este repositório é uma implementação prática de **Compliance-by-Design**. Aqui, a norma jurídica é integrada diretamente ao fluxo de dados para garantir segurança, integridade e transparência na gestão pública.
+
+### 🛡️ Fundamentação Legal
+O projeto está estruturado sob os pilares da **Lei nº 14.133/2021 (Nova Lei de Licitações)** e da **LGPD (Lei nº 13.709/2018)**, focando em:
+* **Segregação de Funções:** Prevenção automática de conflitos de interesse.
+* **Auditabilidade:** Rastro técnico em todos os processos de decisão.
+* **Gestão de Riscos:** Matrizes automatizadas que antecipam falhas de governança.
 
 ### 🐍 Inteligência e Automação
-* **Auditoria via Python:** O projeto possui um script em [`scripts/auditoria_automatizada.py`](scripts/auditoria_automatizada.py) que realiza a análise de dados da matriz de riscos automaticamente.
+* **Auditoria via Python:** Script em [`scripts/auditoria_automatizada.py`](scripts/auditoria_automatizada.py) que analisa a conformidade dos dados em tempo real.
 
-### 🚀 Artefatos de Valor
+### 🚀 Artefatos de Valor (Neste Repositório)
 * 📑 **[Matriz de Riscos Avançada](documentos-conformidade/auditoria_detalhada_software.csv):** Auditoria técnica de 20+ pontos de controle.
-* 🛡️ **[Plano de Governança](documentos-conformidade/plano_estrategico_governanca.md):** Estratégia de mitigação de riscos.
+* 🛡️ **[Plano de Governança](documentos-conformidade/plano_estrategico_governanca.md):** Estratégia de mitigação de riscos críticos.
 * 🏗️ **[Compliance-by-Design](fluxogramas-bpmn/arquitetura_conformidade_digital.md):** Manifesto de arquitetura pública.
 
 ---
-*Projeto desenvolvido por Roberlande Silva, unindo Direito e Tecnologia.*
+*Projeto desenvolvido por Roberlande Silva, unindo Direito Administrativo e Engenharia de Software.*
