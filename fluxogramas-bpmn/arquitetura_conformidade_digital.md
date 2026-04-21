@@ -1,4 +1,4 @@
-## 🏛️ Arquitetura de Software: Compliance-by-Design
+# 🏛️ Arquitetura de Software: Compliance-by-Design
 
 Este documento descreve as premissas de Engenharia de Software adotadas para garantir que o sistema seja inerentemente conforme às normas de Direito Administrativo.
 
