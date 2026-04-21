@@ -24,7 +24,8 @@ O projeto está estruturado sob os pilares da **Lei nº 14.133/2021 (Nova Lei de
 Para garantir a integridade dos dados, desenvolvi um script de auditoria que valida os controles em tempo real.
 
 * 📁 [Acessar Código-Fonte do Script](scripts/auditoria_automatizada.py) — *Para análise técnica da lógica em Python.*
-* 📸 **Evidência de Execução:**
+  
+  * 📸 **Evidência de Execução:**
 
 ![Prova de Execução Real](documentos-conformidade/evidencia_auditoria_ti.png)
 
