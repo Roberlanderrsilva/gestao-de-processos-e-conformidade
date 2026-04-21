@@ -1,4 +1,5 @@
-### 📊 Matriz de Criticidade (Exemplo Prático)
+# 📊 Matriz de Criticidade (Exemplo Prático)
+
 | Processo | Risco Identificado | Probabilidade | Impacto | Nível de Risco |
 | :--- | :--- | :--- | :--- | :--- |
 | **Licitação** | Falha na habilitação técnica | Alta | Crítico | 🔴 Extremo |
