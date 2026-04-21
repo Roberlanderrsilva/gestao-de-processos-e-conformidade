@@ -7,9 +7,12 @@
 
 ---
 
+
 ## ⚖️ Governança e Compliance Digital
 
+
 Este repositório é uma implementação prática de **Compliance-by-Design**. Aqui, a norma jurídica é integrada diretamente ao fluxo de dados para garantir segurança, integridade e transparência na gestão pública.
+
 
 ### 🛡️ Fundamentação Legal
 O projeto está estruturado sob os pilares da **Lei nº 14.133/2021 (Nova Lei de Licitações)** e da **LGPD (Lei nº 13.709/2018)**, focando em:
@@ -17,8 +20,13 @@ O projeto está estruturado sob os pilares da **Lei nº 14.133/2021 (Nova Lei de
 * **Auditabilidade:** Rastro técnico em todos os processos de decisão.
 * **Gestão de Riscos:** Matrizes automatizadas que antecipam falhas de governança.
 
-### 🐍 Inteligência e Automação
-* **Auditoria via Python:** Script em [`scripts/auditoria_automatizada.py`](scripts/auditoria_automatizada.py) que analisa a conformidade dos dados em tempo real.
+### 🤖 2. Inteligência e Automação
+Para garantir a integridade dos dados, desenvolvi um script de auditoria que valida os controles em tempo real.
+
+* 📁 [Acessar Código-Fonte do Script](scripts/auditoria_automatizada.py) — *Para análise técnica da lógica em Python.*
+* 📸 **Evidência de Execução:**
+
+![Prova de Execução Real](documentos-conformidade/evidencia_auditoria_ti.png)
 
 ### 🚀 Artefatos de Valor (Neste Repositório)
 * 📑 **[Matriz de Riscos Avançada](documentos-conformidade/auditoria_detalhada_software.csv):** Auditoria técnica de 20+ pontos de controle.
@@ -26,4 +34,5 @@ O projeto está estruturado sob os pilares da **Lei nº 14.133/2021 (Nova Lei de
 * 🏗️ **[Compliance-by-Design](fluxogramas-bpmn/arquitetura_conformidade_digital.md):** Manifesto de arquitetura pública.
 
 ---
+
 *Projeto desenvolvido por Roberlande Silva, unindo Direito Administrativo e Engenharia de Software.*
