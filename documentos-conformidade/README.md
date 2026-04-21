@@ -1,12 +1,16 @@
 # Conformidade
+# ⚖️ Diretrizes de Auditoria e Evidências de Conformidade
 
-# ⚖️ Documentos de Diretrizes e Auditoria
+Nesta seção, apresento as evidências técnicas da governança de TI. Os arquivos abaixo demonstram a aplicação prática dos controles exigidos pela **LGPD (Art. 46)**.
 
-Nesta seção, apresento as evidências técnicas da conformidade monitorada. Os arquivos abaixo são gerados para garantir a rastreabilidade exigida pela **LGPD** e normas **ISO**.
+### 📊 Estrutura de Dados
+* **`controle_conformidade_ti.csv`**: Check-list de parâmetros de rede e segurança.
+* **`auditoria_detalhada_software.csv`**: Log de verificações de software com níveis de risco.
 
-### 📋 Arquivos disponíveis:
-* **`controle_conformidade_ti.csv`**: Check-list automatizado de parâmetros de segurança da rede e governança.
-* **`auditoria_detalhada_software.csv`**: Log de verificações de software, identificando níveis de risco (Crítico/Conforme).
+### 📸 Prova de Execução (Ambiente Real)
+Abaixo, o registro do sistema executando a auditoria automatizada diretamente no ambiente de desenvolvimento:
+
+![Prova de Execução Real](evidencia_auditoria_ti.png)
 
 ---
-> **Objetivo:** Garantir que a governança de TI esteja alinhada com as exigências do Art. 46 da LGPD (Medidas de Segurança).
+> **Status:** Auditoria em regime de monitoramento contínuo para garantia da Segurança da Informação.
