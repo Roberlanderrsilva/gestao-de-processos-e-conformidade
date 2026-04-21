@@ -1,4 +1,4 @@
-#FLUXOGRAMAS-BPMN
+FLUXOGRAMAS-BPMN
 # 📊 Mapeamento de Processos de Compliance
 
 ![Mapa Estratégico](fluxogramas-bpmn.png)
