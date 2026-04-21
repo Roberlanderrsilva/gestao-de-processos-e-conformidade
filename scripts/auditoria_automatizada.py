@@ -1,27 +1,20 @@
-import pandas as pd
-import os
+name: Auditoria
 
-def analisar_matriz(caminho_arquivo):
-    if not os.path.exists(caminho_arquivo):
-        print(f"Erro: Arquivo {caminho_arquivo} não encontrado.")
-        return
+on: [push]
 
-    # Lendo a matriz de riscos que criamos
-    df = pd.read_csv(caminho_arquivo)
-    
-    print("-" * 50)
-    print("📊 RELATÓRIO DE AUDITORIA DE CONFORMIDADE DIGITAL")
-    print("-" * 50)
-    
-    # Contando os níveis de risco
-    resumo = df['Nivel_Risco'].value_counts()
-    
-    for nivel, qtd in resumo.items():
-        status = "🔴 CRÍTICO" if nivel == "Crítico" else "🟡 ALTO" if nivel == "Alto" else "🟢 MODERADO"
-        print(f"{status}: {qtd} pontos identificados.")
+jobs:
+  verificacao:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-    print("-" * 50)
-    print("✅ Auditoria finalizada com sucesso via Python.")
+      - name: Configurando Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-if __name__ == "__main__":
-    analisar_matriz('documentos-conformidade/auditoria_detalhada_software.csv')
+      - name: Instalando Pandas
+        run: pip install pandas
+
+      - name: Rodando o Script
+        run: python scripts/auditoria_automatizada.py
