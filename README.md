@@ -3,7 +3,7 @@
 > **Especialista:** Roberlande Silva 
 > `Direito Administrativo` | `Engenharia de Software` | `Governança de TI`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlande-silva/)&nbsp;&nbsp;[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/roberlanderrsilva)&nbsp;&nbsp;![Status](https://img.shields.io/badge/Status-Ativo-brightgreen?style=flat-square)&nbsp;&nbsp;![Conformidade Digital](https://img.shields.io/badge/Conformidade_Digital-6f42c1?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberlande-silva/)&nbsp;&nbsp;[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/roberlanderrsilva)&nbsp;&nbsp;![Status](https://img.shields.io/badge/Status_Ativo-44cc11?style=for-the-badge)&nbsp;&nbsp;![Conformidade](https://img.shields.io/badge/Conformidade_Digital-6f42c1?style=for-the-badge)
 
 ---
 
@@ -12,7 +12,7 @@
 Repositório estratégico focado na integração entre normas jurídicas e arquitetura de software.
 
 ### 🐍 Inteligência e Automação
-* **Auditoria via Python:** O projeto possui um script em [`scripts/auditoria_automatizada.py`](scripts/auditoria_automatizada.py) que realiza a análise de dados da matriz de riscos automaticamente, garantindo integridade e velocidade na tomada de decisão.
+* **Auditoria via Python:** O projeto possui um script em [`scripts/auditoria_automatizada.py`](scripts/auditoria_automatizada.py) que realiza a análise de dados da matriz de riscos automaticamente.
 
 ### 🚀 Artefatos de Valor
 * 📑 **[Matriz de Riscos Avançada](documentos-conformidade/auditoria_detalhada_software.csv):** Auditoria técnica de 20+ pontos de controle.
