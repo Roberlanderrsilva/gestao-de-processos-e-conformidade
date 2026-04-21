@@ -1,3 +1,8 @@
+# 🏛️ Hub de Conformidade e Engenharia de Software
+> **Especialista:** Roberlande Silva
+> `Direito Administrativo` | `Engenharia de Software` | `Governança de TI`
+
+---
 # Gestão de Processos e Conformidade ⚖️💻
 
 Repositório estratégico de alto nível integrando **Direito Administrativo, Engenharia de Software e TI**. Focado na criação de fluxos públicos eficientes, auditáveis e tecnicamente robustos.
